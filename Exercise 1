@@ -1,1 +1,24 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Week 1 Response</title>
+</head>
+<body>
+    <h1>New field of Study/New Learnings: Ryan Adams</h1>
+    <h2><i>New Learnings</i></h2>
+    <p>
+        Internet Art, specifically the role of html files in the course thus far, has given me a new sense of how broad the term "<strong>art</strong>" can be when relating to the digital world. So far, in this course I have learned
+        how to properly create an html file, while keeping everything in an organized folder. In addition to the creation of these html files, i have leraned how to use coding terms that previously I had no knowledge
+        of. These coding terms are mostly related to the basic html file creation the class has done so far, such as using "brackets" to create commands that box both sides of the word or phrases being created within the file.
+        Previous to this course, the only coding I had knowledge of was in Python and Java, however I personally never learned either of these programs.
+    </p>
+    <P>
+        Things I hope to learn in the future that I have no yet learned yet include: How to alter the background color of an html file's live server client, how to change text color, how to select a specific font, and how to link together html links.\
+        These components of software are interesting in the sense that they will allow me to personalize each file, and make a story through linking multiple files. I have not yet caught up entirely in class material, so this specific "action" within the
+        coding software most interests me, and will be explored in the coming days. I hope for a fun and eventful semester, and look forward to learning more!
+    </P>
+    <img src="../Luffy Wallpaper.png">
+</body>
+</html>
